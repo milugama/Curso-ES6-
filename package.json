@@ -1,0 +1,11 @@
+{
+  "name": "curso-es6",
+  "version": "1.0.0",
+  "description": "Tentativa de aprender",
+  "main": "index.js",
+  "author": "Ricardo Storti",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.8.4"
+  }
+}
